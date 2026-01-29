@@ -1,0 +1,126 @@
+[
+  {
+    "key": "lora_solar_tested",
+    "name": "LoRa Solar (Tested)",
+    "sensors": [
+      "temp",
+      "rh",
+      "pressure",
+      "rain_tipping"
+    ],
+    "comms": [
+      "LoRa"
+    ],
+    "solar_ok": "true",
+    "non_solar_ok": "true",
+    "battery_chemistries": [
+      "LiPo",
+      "Li-Ion"
+    ],
+    "max_panel_Wp": 3.0,
+    "notes": "STM32L476 + LR62E (SX1262). Standard solar configuration.",
+    "github": "",
+    "power": {
+      "sleep_uA": 1.5,
+      "sample_mA": 2.0,
+      "sample_ms": 80,
+      "tx_mA": 45.0,
+      "tx_s": 1.2,
+      "tx_interval_min": 15,
+      "system_overhead_mW": 0.8
+    }
+  },
+  {
+    "key": "lora_battery",
+    "name": "LoRa Battery ",
+    "sensors": [
+      "temp",
+      "rh",
+      "pressure",
+      "rain_tipping"
+    ],
+    "comms": [
+      "LoRa"
+    ],
+    "solar_ok": "false",
+    "non_solar_ok": "true",
+    "battery_chemistries": [
+      "Li-SOCl2"
+    ],
+    "max_panel_Wp": 0.0,
+    "notes": "STM32L476 + LR62E. Optimized for primary batteries (Li-SOCl2).",
+    "github": "",
+    "power": {
+      "sleep_uA": 1.5,
+      "sample_mA": 2.0,
+      "sample_ms": 80,
+      "tx_mA": 45.0,
+      "tx_s": 1.2,
+      "tx_interval_min": 15,
+      "system_overhead_mW": 0.8
+    }
+  },
+  {
+    "key": "nbiot_battery",
+    "name": "NB-IoT Battery ",
+    "sensors": [
+      "temp",
+      "rh",
+      "pressure",
+      "rain_tipping"
+    ],
+    "comms": [
+      "NB-IoT",
+      "LTE-M"
+    ],
+    "solar_ok": "false",
+    "non_solar_ok": "true",
+    "battery_chemistries": [
+      "Li-SOCl2"
+    ],
+    "max_panel_Wp": 0.0,
+    "notes": "STM32L476 + Quectel BC660K-GL. High capacity battery pack required.",
+    "github": "",
+    "power": {
+      "sleep_uA": 6.0,
+      "sample_mA": 3.0,
+      "sample_ms": 90,
+      "tx_mA": 220.0,
+      "tx_s": 3.5,
+      "tx_interval_min": 60,
+      "system_overhead_mW": 1.4
+    }
+  },
+  {
+    "key": "nbiot_solar",
+    "name": "WX-NB-IoT Solar",
+    "sensors": [
+      "temp",
+      "rh",
+      "pressure",
+      "rain_tipping"
+    ],
+    "comms": [
+      "NB-IoT",
+      "LTE-M"
+    ],
+    "solar_ok": "true",
+    "non_solar_ok": "false",
+    "battery_chemistries": [
+      "LiPo",
+      "Li-Ion"
+    ],
+    "max_panel_Wp": 6.0,
+    "notes": " STM32L476 + Quectel BC660K-GL. Solar charging for continuous operation.",
+    "github": "",
+    "power": {
+      "sleep_uA": 6.0,
+      "sample_mA": 3.0,
+      "sample_ms": 90,
+      "tx_mA": 220.0,
+      "tx_s": 3.5,
+      "tx_interval_min": 30,
+      "system_overhead_mW": 1.4
+    }
+  }
+]
