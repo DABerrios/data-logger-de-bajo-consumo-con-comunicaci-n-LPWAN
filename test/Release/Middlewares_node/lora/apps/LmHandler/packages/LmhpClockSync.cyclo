@@ -1,0 +1,8 @@
+../Middlewares_node/lora/apps/LmHandler/packages/LmhpClockSync.c:153:13:LmhpClockSyncInit	2
+../Middlewares_node/lora/apps/LmHandler/packages/LmhpClockSync.c:168:13:LmhpClockSyncIsInitialized	1
+../Middlewares_node/lora/apps/LmHandler/packages/LmhpClockSync.c:173:13:LmhpClockSyncIsTxPending	1
+../Middlewares_node/lora/apps/LmHandler/packages/LmhpClockSync.c:214:13:LmhpClockSyncOnMcpsIndication	11
+../Middlewares_node/lora/apps/LmHandler/packages/LmhpClockSync.c:189:13:LmhpClockSyncOnMcpsConfirm	2
+../Middlewares_node/lora/apps/LmHandler/packages/LmhpClockSync.c:148:15:LmphClockSyncPackageFactory	1
+../Middlewares_node/lora/apps/LmHandler/packages/LmhpClockSync.c:313:24:LmhpClockSyncAppTimeReq	3
+../Middlewares_node/lora/apps/LmHandler/packages/LmhpClockSync.c:178:13:LmhpClockSyncProcess	3

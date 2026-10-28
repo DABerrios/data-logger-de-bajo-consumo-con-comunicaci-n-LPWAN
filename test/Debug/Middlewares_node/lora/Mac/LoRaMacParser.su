@@ -1,0 +1,2 @@
+../Middlewares_node/lora/Mac/LoRaMacParser.c:24:23:LoRaMacParserJoinAccept	24	static
+../Middlewares_node/lora/Mac/LoRaMacParser.c:68:23:LoRaMacParserData	24	static

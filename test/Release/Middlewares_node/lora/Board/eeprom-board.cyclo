@@ -1,0 +1,8 @@
+../Middlewares_node/lora/Board/eeprom-board.c:36:6:EepromMcuInit	4
+../Middlewares_node/lora/Board/eeprom-board.c:91:6:EepromMcuIsErasingOnGoing	1
+../Middlewares_node/lora/Board/eeprom-board.c:96:13:EepromMcuWriteBuffer	4
+../Middlewares_node/lora/Board/eeprom-board.c:131:13:EepromMcuReadBuffer	3
+../Middlewares_node/lora/Board/eeprom-board.c:152:6:EepromMcuSetDeviceAddr	1
+../Middlewares_node/lora/Board/eeprom-board.c:157:13:EepromMcuGetDeviceAddr	1
+../Middlewares_node/lora/Board/eeprom-board.c:172:6:HAL_FLASH_EndOfOperationCallback	2
+../Middlewares_node/lora/Board/eeprom-board.c:186:6:EE_EndOfCleanup_UserCallback	1

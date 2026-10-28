@@ -1,0 +1,17 @@
+../Middlewares_node/lora/Mac/LoRaMacConfirmQueue.c:77:28:IncreaseBufferPointer	16	static
+../Middlewares_node/lora/Mac/LoRaMacConfirmQueue.c:92:28:DecreaseBufferPointer	16	static
+../Middlewares_node/lora/Mac/LoRaMacConfirmQueue.c:106:13:IsListEmpty	16	static
+../Middlewares_node/lora/Mac/LoRaMacConfirmQueue.c:115:13:IsListFull	16	static
+../Middlewares_node/lora/Mac/LoRaMacConfirmQueue.c:124:28:GetElement	32	static
+../Middlewares_node/lora/Mac/LoRaMacConfirmQueue.c:146:6:LoRaMacConfirmQueueInit	16	static
+../Middlewares_node/lora/Mac/LoRaMacConfirmQueue.c:163:6:LoRaMacConfirmQueueAdd	16	static
+../Middlewares_node/lora/Mac/LoRaMacConfirmQueue.c:184:6:LoRaMacConfirmQueueRemoveLast	8	static
+../Middlewares_node/lora/Mac/LoRaMacConfirmQueue.c:199:6:LoRaMacConfirmQueueRemoveFirst	8	static
+../Middlewares_node/lora/Mac/LoRaMacConfirmQueue.c:214:6:LoRaMacConfirmQueueSetStatus	24	static
+../Middlewares_node/lora/Mac/LoRaMacConfirmQueue.c:229:26:LoRaMacConfirmQueueGetStatus	24	static
+../Middlewares_node/lora/Mac/LoRaMacConfirmQueue.c:244:6:LoRaMacConfirmQueueSetStatusCmn	24	static
+../Middlewares_node/lora/Mac/LoRaMacConfirmQueue.c:266:26:LoRaMacConfirmQueueGetStatusCmn	4	static
+../Middlewares_node/lora/Mac/LoRaMacConfirmQueue.c:271:6:LoRaMacConfirmQueueIsCmdActive	16	static
+../Middlewares_node/lora/Mac/LoRaMacConfirmQueue.c:280:6:LoRaMacConfirmQueueHandleCb	24	static
+../Middlewares_node/lora/Mac/LoRaMacConfirmQueue.c:317:9:LoRaMacConfirmQueueGetCnt	4	static
+../Middlewares_node/lora/Mac/LoRaMacConfirmQueue.c:322:6:LoRaMacConfirmQueueIsFull	8	static

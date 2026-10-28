@@ -1,0 +1,16 @@
+../Middlewares_node/Src/bme280.c:56:13:bme280_i2c_read	2
+../Middlewares_node/Src/bme280.c:64:13:bme280_i2c_write	2
+../Middlewares_node/Src/bme280.c:72:16:bme280_read_u8	1
+../Middlewares_node/Src/bme280.c:79:13:bme280_write_u8	1
+../Middlewares_node/Src/bme280.c:84:16:bme280_compensate_T_int32	1
+../Middlewares_node/Src/bme280.c:98:17:bme280_compensate_P_int64	2
+../Middlewares_node/Src/bme280.c:120:17:bme280_compensate_H_int32	1
+../Middlewares_node/Src/bme280.c:139:13:bme280_read_calibration	1
+../Middlewares_node/Src/bme280.c:177:6:bme280_init	3
+../Middlewares_node/Src/bme280.c:202:6:bme280_config_weather_forced	1
+../Middlewares_node/Src/bme280.c:221:6:bme280_trigger_forced	1
+../Middlewares_node/Src/bme280.c:229:6:bme280_is_measuring	1
+../Middlewares_node/Src/bme280.c:235:6:bme280_read_compensated	3
+../Middlewares_node/Src/bme280.c:259:6:bme280_read_forced	3
+../Middlewares_node/Src/bme280.c:273:6:bme280_open	1
+../Middlewares_node/Src/bme280.c:274:6:bme280_update	1

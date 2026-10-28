@@ -1,0 +1,17 @@
+../Middlewares_node/Src/user_diskio_spi.c:103:6:USER_SPI_force_reinit	4	static
+../Middlewares_node/Src/user_diskio_spi.c:111:6:SPI_Timer_On	16	static
+../Middlewares_node/Src/user_diskio_spi.c:116:9:SPI_Timer_Status	8	static
+../Middlewares_node/Src/user_diskio_spi.c:126:6:xchg_spi	32	static
+../Middlewares_node/Src/user_diskio_spi.c:138:6:rcvr_spi_multi	32	static
+../Middlewares_node/Src/user_diskio_spi.c:152:6:xmit_spi_multi	16	static
+../Middlewares_node/Src/user_diskio_spi.c:167:5:wait_ready	32	static
+../Middlewares_node/Src/user_diskio_spi.c:194:6:despiselect	8	static
+../Middlewares_node/Src/user_diskio_spi.c:208:5:spiselect	8	static
+../Middlewares_node/Src/user_diskio_spi.c:225:5:rcvr_datablock	24	static
+../Middlewares_node/Src/user_diskio_spi.c:254:5:xmit_datablock	24	static
+../Middlewares_node/Src/user_diskio_spi.c:282:6:send_cmd	24	static
+../Middlewares_node/Src/user_diskio_spi.c:341:16:USER_SPI_initialize	32	static
+../Middlewares_node/Src/user_diskio_spi.c:414:16:USER_SPI_status	16	static
+../Middlewares_node/Src/user_diskio_spi.c:429:16:USER_SPI_read	24	static
+../Middlewares_node/Src/user_diskio_spi.c:468:16:USER_SPI_write	24	static
+../Middlewares_node/Src/user_diskio_spi.c:509:16:USER_SPI_ioctl	56	static

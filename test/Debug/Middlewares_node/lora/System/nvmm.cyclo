@@ -1,0 +1,4 @@
+../Middlewares_node/lora/System/nvmm.c:32:10:NvmmWrite	2
+../Middlewares_node/lora/System/nvmm.c:41:10:NvmmRead	2
+../Middlewares_node/lora/System/nvmm.c:50:6:NvmmCrc32Check	5
+../Middlewares_node/lora/System/nvmm.c:79:6:NvmmReset	2

@@ -1,0 +1,4 @@
+../Middlewares_node/lora/apps/NvmDataMgmt.c:51:6:NvmDataMgmtEvent	1
+../Middlewares_node/lora/apps/NvmDataMgmt.c:56:10:NvmDataMgmtStore	10
+../Middlewares_node/lora/apps/NvmDataMgmt.c:151:10:NvmDataMgmtRestore	1
+../Middlewares_node/lora/apps/NvmDataMgmt.c:225:6:NvmDataMgmtFactoryReset	7

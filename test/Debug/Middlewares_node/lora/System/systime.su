@@ -1,0 +1,13 @@
+../Middlewares_node/lora/System/systime.c:76:11:SysTimeAdd	32	static
+../Middlewares_node/lora/System/systime.c:90:11:SysTimeSub	32	static
+../Middlewares_node/lora/System/systime.c:104:6:SysTimeSet	40	static
+../Middlewares_node/lora/System/systime.c:118:11:SysTimeGet	56	static
+../Middlewares_node/lora/System/systime.c:136:11:SysTimeGetMcuTime	24	static
+../Middlewares_node/lora/System/systime.c:145:13:SysTimeToMs	48	static
+../Middlewares_node/lora/System/systime.c:159:11:SysTimeFromMs	48	static
+../Middlewares_node/lora/System/systime.c:172:10:SysTimeMkTime	48	static
+../Middlewares_node/lora/System/systime.c:203:6:SysTimeLocalTime	64	static
+../Middlewares_node/lora/System/systime.c:255:17:CalendarGetMonth	24	static
+../Middlewares_node/lora/System/systime.c:292:13:CalendarDiv86400	32	static
+../Middlewares_node/lora/System/systime.c:318:17:CalendarDiv61	24	static
+../Middlewares_node/lora/System/systime.c:340:13:CalendarDiv60	32	static

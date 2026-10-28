@@ -1,0 +1,5 @@
+../Middlewares_node/lora/Board/spi-board.c:31:6:SpiInit	3
+../Middlewares_node/lora/Board/spi-board.c:80:6:SpiDeInit	1
+../Middlewares_node/lora/Board/spi-board.c:90:6:SpiFormat	3
+../Middlewares_node/lora/Board/spi-board.c:118:6:SpiFrequency	6
+../Middlewares_node/lora/Board/spi-board.c:142:10:SpiInOut	7

@@ -1,0 +1,11 @@
+../Middlewares_node/Src/bme280.c:56:13:bme280_i2c_read	24	static
+../Middlewares_node/Src/bme280.c:72:16:bme280_read_u8	16	static
+../Middlewares_node/Src/bme280.c:79:13:bme280_write_u8	32	static
+../Middlewares_node/Src/bme280.c:202:6:bme280_config_weather_forced	8	static
+../Middlewares_node/Src/bme280.c:177:6:bme280_init	56	static
+../Middlewares_node/Src/bme280.c:221:6:bme280_trigger_forced	8	static
+../Middlewares_node/Src/bme280.c:229:6:bme280_is_measuring	8	static
+../Middlewares_node/Src/bme280.c:235:6:bme280_read_compensated	80	static
+../Middlewares_node/Src/bme280.c:259:6:bme280_read_forced	16	static
+../Middlewares_node/Src/bme280.c:273:6:bme280_open	0	static
+../Middlewares_node/Src/bme280.c:274:6:bme280_update	0	static

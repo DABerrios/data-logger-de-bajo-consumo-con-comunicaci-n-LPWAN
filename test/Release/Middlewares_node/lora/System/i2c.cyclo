@@ -1,0 +1,11 @@
+../Middlewares_node/lora/System/i2c.c:32:6:I2cInit	2
+../Middlewares_node/lora/System/i2c.c:43:6:I2cDeInit	1
+../Middlewares_node/lora/System/i2c.c:49:6:I2cResetBus	1
+../Middlewares_node/lora/System/i2c.c:54:13:I2cWrite	3
+../Middlewares_node/lora/System/i2c.c:81:13:I2cWriteBuffer	3
+../Middlewares_node/lora/System/i2c.c:108:13:I2cWriteMem	3
+../Middlewares_node/lora/System/i2c.c:135:13:I2cWriteMemBuffer	3
+../Middlewares_node/lora/System/i2c.c:162:13:I2cRead	2
+../Middlewares_node/lora/System/i2c.c:174:13:I2cReadBuffer	2
+../Middlewares_node/lora/System/i2c.c:186:13:I2cReadMem	2
+../Middlewares_node/lora/System/i2c.c:198:13:I2cReadMemBuffer	2

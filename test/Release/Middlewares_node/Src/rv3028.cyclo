@@ -1,0 +1,15 @@
+../Middlewares_node/Src/rv3028.c:24:16:bin_to_bcd	1
+../Middlewares_node/Src/rv3028.c:28:26:rv3028_read	1
+../Middlewares_node/Src/rv3028.c:32:26:rv3028_write	1
+../Middlewares_node/Src/rv3028.c:115:6:rv3028_set_24h_mode	3
+../Middlewares_node/Src/rv3028.c:125:6:rv3028_get_datetime	4
+../Middlewares_node/Src/rv3028.c:142:6:rv3028_set_datetime	3
+../Middlewares_node/Src/rv3028.c:181:6:rv3028_alarm_disable	2
+../Middlewares_node/Src/rv3028.c:228:6:rv3028_timer_disable	3
+../Middlewares_node/Src/rv3028.c:242:6:rv3028_clear_flags	2
+../Middlewares_node/Src/rv3028.c:38:6:rv3028_init	6
+../Middlewares_node/Src/rv3028.c:157:6:rv3028_alarm_set_daily	4
+../Middlewares_node/Src/rv3028.c:188:6:rv3028_timer_set	6
+../Middlewares_node/Src/rv3028.c:251:6:rv3028_get_flags	1
+../Middlewares_node/Src/rv3028.c:86:6:rv3028_wakeup_init	6
+../Middlewares_node/Src/rv3028.c:255:6:rv3028_handle_irq	4

@@ -1,0 +1,7 @@
+../Middlewares_node/lora/Board/gpio-board.c:35:6:GpioMcuInit	13
+../Middlewares_node/lora/Board/gpio-board.c:129:6:GpioMcuSetContext	1
+../Middlewares_node/lora/Board/gpio-board.c:134:6:GpioMcuSetInterrupt	37
+../Middlewares_node/lora/Board/gpio-board.c:238:6:GpioMcuRemoveInterrupt	2
+../Middlewares_node/lora/Board/gpio-board.c:260:6:GpioMcuWrite	3
+../Middlewares_node/lora/Board/gpio-board.c:284:6:GpioMcuToggle	3
+../Middlewares_node/lora/Board/gpio-board.c:309:10:GpioMcuRead	3

@@ -1,0 +1,16 @@
+../Middlewares_node/Src/tmp117.c:23:26:tmp117_read_reg16	48	static
+../Middlewares_node/Src/tmp117.c:37:26:tmp117_write_reg16	40	static
+../Middlewares_node/Src/tmp117.c:46:26:tmp117_update_bits	32	static
+../Middlewares_node/Src/tmp117.c:56:14:tmp117_raw_to_c	16	static
+../Middlewares_node/Src/tmp117.c:63:6:tmp117_set_i2c_address	16	static
+../Middlewares_node/Src/tmp117.c:77:6:tmp117_init	24	static
+../Middlewares_node/Src/tmp117.c:95:6:tmp117_soft_reset	16	static
+../Middlewares_node/Src/tmp117.c:106:6:tmp117_set_mode	24	static
+../Middlewares_node/Src/tmp117.c:125:6:tmp117_set_averaging	24	static
+../Middlewares_node/Src/tmp117.c:145:6:tmp117_set_conv_time_cc	24	static
+../Middlewares_node/Src/tmp117.c:157:6:tmp117_read_temperature_c	24	static
+../Middlewares_node/Src/tmp117.c:175:6:tmp117_read_temperature_mC	24	static
+../Middlewares_node/Src/tmp117.c:186:6:tmp117_read_config	16	static
+../Middlewares_node/Src/tmp117.c:198:6:tmp117_wait_data_ready	24	static
+../Middlewares_node/Src/tmp117.c:215:6:tmp117_oneshot_read_temperature_c	24	static
+../Middlewares_node/Src/tmp117.c:225:6:tmp117_set_limits_c	32	static

@@ -1,0 +1,7 @@
+../Middlewares_node/lora/apps/LmHandler/packages/LmhpFragmentation.c:194:13:OnFragmentTxDelay	1
+../Middlewares_node/lora/apps/LmHandler/packages/LmhpFragmentation.c:202:15:LmhpFragmentationPackageFactory	1
+../Middlewares_node/lora/apps/LmHandler/packages/LmhpFragmentation.c:207:13:LmhpFragmentationInit	3
+../Middlewares_node/lora/apps/LmHandler/packages/LmhpFragmentation.c:228:13:LmhpFragmentationIsInitialized	1
+../Middlewares_node/lora/apps/LmHandler/packages/LmhpFragmentation.c:233:14:LmhpFragmentationIsTxPending	1
+../Middlewares_node/lora/apps/LmHandler/packages/LmhpFragmentation.c:238:13:LmhpFragmentationProcess	3
+../Middlewares_node/lora/apps/LmHandler/packages/LmhpFragmentation.c:269:13:LmhpFragmentationOnMcpsIndication	27

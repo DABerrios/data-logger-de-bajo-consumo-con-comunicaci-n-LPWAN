@@ -1,0 +1,4 @@
+../Middlewares_node/lora/System/nvmm.c:32:10:NvmmWrite	8	static
+../Middlewares_node/lora/System/nvmm.c:41:10:NvmmRead	8	static
+../Middlewares_node/lora/System/nvmm.c:50:6:NvmmCrc32Check	32	static
+../Middlewares_node/lora/System/nvmm.c:79:6:NvmmReset	16	static

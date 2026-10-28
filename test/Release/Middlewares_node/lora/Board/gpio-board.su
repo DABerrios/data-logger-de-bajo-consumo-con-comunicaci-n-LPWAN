@@ -1,0 +1,7 @@
+../Middlewares_node/lora/Board/gpio-board.c:129:6:GpioMcuSetContext	0	static
+../Middlewares_node/lora/Board/gpio-board.c:134:6:GpioMcuSetInterrupt	40	static
+../Middlewares_node/lora/Board/gpio-board.c:238:6:GpioMcuRemoveInterrupt	32	static
+../Middlewares_node/lora/Board/gpio-board.c:260:6:GpioMcuWrite	0	static
+../Middlewares_node/lora/Board/gpio-board.c:35:6:GpioMcuInit	64	static
+../Middlewares_node/lora/Board/gpio-board.c:284:6:GpioMcuToggle	0	static
+../Middlewares_node/lora/Board/gpio-board.c:309:10:GpioMcuRead	8	static

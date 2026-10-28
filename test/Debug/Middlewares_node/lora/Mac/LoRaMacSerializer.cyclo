@@ -1,0 +1,4 @@
+../Middlewares_node/lora/Mac/LoRaMacSerializer.c:24:27:LoRaMacSerializerJoinRequest	4
+../Middlewares_node/lora/Mac/LoRaMacSerializer.c:60:27:LoRaMacSerializerReJoinType1	4
+../Middlewares_node/lora/Mac/LoRaMacSerializer.c:97:27:LoRaMacSerializerReJoinType0or2	4
+../Middlewares_node/lora/Mac/LoRaMacSerializer.c:134:27:LoRaMacSerializerData	6

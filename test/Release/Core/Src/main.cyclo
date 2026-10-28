@@ -1,0 +1,14 @@
+../Core/Src/main.c:842:13:MX_SPI2_Init	2
+../Core/Src/main.c:766:13:MX_RTC_Init	2
+../Core/Src/main.c:718:13:MX_I2C2_Init	4
+../Core/Src/main.c:609:6:SystemClock_Config	4
+../Core/Src/main.c:1019:6:HAL_GPIO_EXTI_Callback	5
+../Core/Src/main.c:1036:6:EXTI0_IRQHandler	2
+../Core/Src/main.c:1044:6:EXTI4_IRQHandler	1
+../Core/Src/main.c:1049:6:EXTI9_5_IRQHandler	1
+../Core/Src/main.c:1055:6:EXTI15_10_IRQHandler	1
+../Core/Src/main.c:1063:6:SystemClock_Config_LowPower	1
+../Core/Src/main.c:1094:6:Enter_Stop_Mode	1
+../Core/Src/main.c:1123:6:Pins_Park	1
+../Core/Src/main.c:338:5:main	23
+../Core/Src/main.c:1240:6:Error_Handler	1

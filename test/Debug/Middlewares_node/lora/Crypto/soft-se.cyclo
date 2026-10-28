@@ -1,0 +1,15 @@
+../Middlewares_node/lora/Crypto/soft-se.c:53:30:GetKeyByID	3
+../Middlewares_node/lora/Crypto/soft-se.c:78:30:ComputeCmac	5
+../Middlewares_node/lora/Crypto/soft-se.c:119:23:SecureElementInit	2
+../Middlewares_node/lora/Crypto/soft-se.c:165:23:SecureElementSetKey	8
+../Middlewares_node/lora/Crypto/soft-se.c:197:23:SecureElementComputeAesCmac	2
+../Middlewares_node/lora/Crypto/soft-se.c:209:23:SecureElementVerifyAesCmac	4
+../Middlewares_node/lora/Crypto/soft-se.c:233:23:SecureElementAesEncrypt	6
+../Middlewares_node/lora/Crypto/soft-se.c:269:23:SecureElementDeriveAndStoreKey	6
+../Middlewares_node/lora/Crypto/soft-se.c:306:23:SecureElementProcessJoinAccept	11
+../Middlewares_node/lora/Crypto/soft-se.c:404:23:SecureElementSetDevEui	2
+../Middlewares_node/lora/Crypto/soft-se.c:414:10:SecureElementGetDevEui	1
+../Middlewares_node/lora/Crypto/soft-se.c:419:23:SecureElementSetJoinEui	2
+../Middlewares_node/lora/Crypto/soft-se.c:429:10:SecureElementGetJoinEui	1
+../Middlewares_node/lora/Crypto/soft-se.c:434:23:SecureElementSetPin	2
+../Middlewares_node/lora/Crypto/soft-se.c:445:10:SecureElementGetPin	1

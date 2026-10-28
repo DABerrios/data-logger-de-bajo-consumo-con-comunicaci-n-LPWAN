@@ -1,0 +1,10 @@
+../Middlewares_node/lora/Board/i2c-board.c:37:6:I2cMcuInit	1
+../Middlewares_node/lora/Board/i2c-board.c:52:6:I2cMcuFormat	3
+../Middlewares_node/lora/Board/i2c-board.c:79:6:I2cMcuResetBus	1
+../Middlewares_node/lora/Board/i2c-board.c:92:6:I2cMcuDeInit	1
+../Middlewares_node/lora/Board/i2c-board.c:105:6:I2cSetAddrSize	1
+../Middlewares_node/lora/Board/i2c-board.c:110:13:I2cMcuWriteBuffer	1
+../Middlewares_node/lora/Board/i2c-board.c:119:13:I2cMcuReadBuffer	1
+../Middlewares_node/lora/Board/i2c-board.c:128:13:I2cMcuWriteMemBuffer	1
+../Middlewares_node/lora/Board/i2c-board.c:146:13:I2cMcuReadMemBuffer	1
+../Middlewares_node/lora/Board/i2c-board.c:164:13:I2cMcuWaitStandbyState	1

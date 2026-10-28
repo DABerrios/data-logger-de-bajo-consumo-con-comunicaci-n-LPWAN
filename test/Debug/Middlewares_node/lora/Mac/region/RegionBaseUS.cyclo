@@ -1,0 +1,4 @@
+../Middlewares_node/lora/Mac/region/RegionBaseUS.c:49:24:FindAvailable125kHzChannels	5
+../Middlewares_node/lora/Mac/region/RegionBaseUS.c:75:17:RegionBaseUSComputeNext125kHzJoinChannel	11
+../Middlewares_node/lora/Mac/region/RegionBaseUS.c:137:6:RegionBaseUSVerifyFrequencyGroup	4
+../Middlewares_node/lora/Mac/region/RegionBaseUS.c:148:10:RegionBaseUSCalcDownlinkFrequency	1

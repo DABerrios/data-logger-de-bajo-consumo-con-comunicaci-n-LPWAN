@@ -1,0 +1,7 @@
+../Middlewares_node/lora/System/gpio.c:29:6:GpioInit	24	static
+../Middlewares_node/lora/System/gpio.c:34:6:GpioSetContext	16	static
+../Middlewares_node/lora/System/gpio.c:39:6:GpioSetInterrupt	24	static
+../Middlewares_node/lora/System/gpio.c:44:6:GpioRemoveInterrupt	16	static
+../Middlewares_node/lora/System/gpio.c:49:6:GpioWrite	16	static
+../Middlewares_node/lora/System/gpio.c:54:6:GpioToggle	16	static
+../Middlewares_node/lora/System/gpio.c:59:10:GpioRead	16	static

@@ -1,0 +1,10 @@
+../Middlewares_node/lora/Mac/LoRaMacCommands.c:274:13:IsSticky	3
+../Middlewares_node/lora/Mac/LoRaMacCommands.c:312:24:LoRaMacCommandsInit	1
+../Middlewares_node/lora/Mac/LoRaMacCommands.c:322:24:LoRaMacCommandsAddCmd	8
+../Middlewares_node/lora/Mac/LoRaMacCommands.c:356:24:LoRaMacCommandsRemoveCmd	7
+../Middlewares_node/lora/Mac/LoRaMacCommands.c:380:24:LoRaMacCommandsGetCmd	3
+../Middlewares_node/lora/Mac/LoRaMacCommands.c:404:24:LoRaMacCommandsRemoveNoneStickyCmds	3
+../Middlewares_node/lora/Mac/LoRaMacCommands.c:430:24:LoRaMacCommandsRemoveStickyAnsCmds	5
+../Middlewares_node/lora/Mac/LoRaMacCommands.c:453:24:LoRaMacCommandsGetSizeSerializedCmds	2
+../Middlewares_node/lora/Mac/LoRaMacCommands.c:463:24:LoRaMacCommandsSerializeCmds	6
+../Middlewares_node/lora/Mac/LoRaMacCommands.c:506:9:LoRaMacCommandsGetCmdSize	2

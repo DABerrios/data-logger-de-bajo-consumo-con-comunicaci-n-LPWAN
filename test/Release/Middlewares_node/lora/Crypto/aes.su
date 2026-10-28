@@ -1,0 +1,5 @@
+../Middlewares_node/lora/Crypto/aes.c:349:13:xor_block	0	static
+../Middlewares_node/lora/Crypto/aes.c:376:13:copy_and_key	8	static
+../Middlewares_node/lora/Crypto/aes.c:513:13:aes_set_key	32	static
+../Middlewares_node/lora/Crypto/aes.c:568:13:aes_encrypt	176	static
+../Middlewares_node/lora/Crypto/aes.c:597:13:aes_cbc_encrypt	24	static

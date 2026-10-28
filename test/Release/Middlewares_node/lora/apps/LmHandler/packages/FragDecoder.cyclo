@@ -1,0 +1,13 @@
+../Middlewares_node/lora/apps/LmHandler/packages/FragDecoder.c:495:13:SetRow	3
+../Middlewares_node/lora/apps/LmHandler/packages/FragDecoder.c:503:13:GetRow	3
+../Middlewares_node/lora/apps/LmHandler/packages/FragDecoder.c:522:16:GetParity	1
+../Middlewares_node/lora/apps/LmHandler/packages/FragDecoder.c:530:13:SetParity	1
+../Middlewares_node/lora/apps/LmHandler/packages/FragDecoder.c:552:13:XorDataLine	2
+../Middlewares_node/lora/apps/LmHandler/packages/FragDecoder.c:560:13:XorParityLine	2
+../Middlewares_node/lora/apps/LmHandler/packages/FragDecoder.c:639:13:FragFindMissingFrags	5
+../Middlewares_node/lora/apps/LmHandler/packages/FragDecoder.c:670:17:FragFindMissingIndex	3
+../Middlewares_node/lora/apps/LmHandler/packages/FragDecoder.c:689:13:FragExtractLineFromBinaryMatrix	5
+../Middlewares_node/lora/apps/LmHandler/packages/FragDecoder.c:243:6:FragDecoderInit	5
+../Middlewares_node/lora/apps/LmHandler/packages/FragDecoder.c:295:10:FragDecoderGetMaxFileSize	1
+../Middlewares_node/lora/apps/LmHandler/packages/FragDecoder.c:301:9:FragDecoderProcess	28
+../Middlewares_node/lora/apps/LmHandler/packages/FragDecoder.c:483:21:FragDecoderGetStatus	1

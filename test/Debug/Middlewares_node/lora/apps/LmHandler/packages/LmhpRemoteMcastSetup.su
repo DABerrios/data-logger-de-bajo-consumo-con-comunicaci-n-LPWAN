@@ -1,0 +1,8 @@
+../Middlewares_node/lora/apps/LmHandler/packages/LmhpRemoteMcastSetup.c:230:15:LmhpRemoteMcastSetupPackageFactory	4	static
+../Middlewares_node/lora/apps/LmHandler/packages/LmhpRemoteMcastSetup.c:235:13:LmhpRemoteMcastSetupInit	24	static
+../Middlewares_node/lora/apps/LmHandler/packages/LmhpRemoteMcastSetup.c:252:13:LmhpRemoteMcastSetupIsInitialized	4	static
+../Middlewares_node/lora/apps/LmHandler/packages/LmhpRemoteMcastSetup.c:257:13:LmhpRemoteMcastSetupIsTxPending	4	static
+../Middlewares_node/lora/apps/LmHandler/packages/LmhpRemoteMcastSetup.c:262:13:LmhpRemoteMcastSetupProcess	16	static
+../Middlewares_node/lora/apps/LmHandler/packages/LmhpRemoteMcastSetup.c:292:13:LmhpRemoteMcastSetupOnMcpsIndication	136	static
+../Middlewares_node/lora/apps/LmHandler/packages/LmhpRemoteMcastSetup.c:543:13:OnSessionStartTimer	16	static
+../Middlewares_node/lora/apps/LmHandler/packages/LmhpRemoteMcastSetup.c:550:13:OnSessionStopTimer	16	static

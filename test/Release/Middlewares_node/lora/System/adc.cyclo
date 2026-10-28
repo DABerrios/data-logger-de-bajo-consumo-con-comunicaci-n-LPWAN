@@ -1,0 +1,3 @@
+../Middlewares_node/lora/System/adc.c:31:6:AdcInit	2
+../Middlewares_node/lora/System/adc.c:42:6:AdcDeInit	1
+../Middlewares_node/lora/System/adc.c:47:10:AdcReadChannel	2

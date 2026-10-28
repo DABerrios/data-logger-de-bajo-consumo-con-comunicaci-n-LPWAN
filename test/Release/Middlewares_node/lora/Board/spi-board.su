@@ -1,0 +1,5 @@
+../Middlewares_node/lora/Board/spi-board.c:80:6:SpiDeInit	24	static
+../Middlewares_node/lora/Board/spi-board.c:90:6:SpiFormat	12	static
+../Middlewares_node/lora/Board/spi-board.c:118:6:SpiFrequency	0	static
+../Middlewares_node/lora/Board/spi-board.c:31:6:SpiInit	72	static
+../Middlewares_node/lora/Board/spi-board.c:142:10:SpiInOut	24	static

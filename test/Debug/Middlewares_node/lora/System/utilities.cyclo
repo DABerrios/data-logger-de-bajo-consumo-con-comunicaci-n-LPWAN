@@ -1,0 +1,10 @@
+../Middlewares_node/lora/System/utilities.c:31:6:srand1	1
+../Middlewares_node/lora/System/utilities.c:36:9:randr	1
+../Middlewares_node/lora/System/utilities.c:42:6:memcpy1	2
+../Middlewares_node/lora/System/utilities.c:50:6:memcpyr	2
+../Middlewares_node/lora/System/utilities.c:59:6:memset1	2
+../Middlewares_node/lora/System/utilities.c:67:8:Nibble2HexChar	3
+../Middlewares_node/lora/System/utilities.c:88:10:Crc32	1
+../Middlewares_node/lora/System/utilities.c:96:10:Crc32Init	1
+../Middlewares_node/lora/System/utilities.c:101:10:Crc32Update	4
+../Middlewares_node/lora/System/utilities.c:123:10:Crc32Finalize	1

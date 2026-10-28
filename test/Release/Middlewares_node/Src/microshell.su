@@ -1,0 +1,12 @@
+../Middlewares_node/Src/microshell.c:38:17:tx_used	0	static
+../Middlewares_node/Src/microshell.c:95:13:ms_puts.part.0	48	static
+../Middlewares_node/Src/microshell.c:101:13:ms_puteol	0	static
+../Middlewares_node/Src/microshell.c:112:13:ms_err	8	static
+../Middlewares_node/Src/microshell.c:120:13:parse_u32.part.0.constprop	16	static
+../Middlewares_node/Src/microshell.c:260:13:cmd_interval	64	static
+../Middlewares_node/Src/microshell.c:388:6:microshell_prompt	8	static
+../Middlewares_node/Src/microshell.c:375:6:microshell_init	16	static
+../Middlewares_node/Src/microshell.c:394:6:microshell_print	0	static
+../Middlewares_node/Src/microshell.c:399:6:microshell_printf	176	static
+../Middlewares_node/Src/microshell.c:410:6:microshell_rx_bytes	168	static
+../Middlewares_node/Src/microshell.c:456:6:microshell_task	88	static

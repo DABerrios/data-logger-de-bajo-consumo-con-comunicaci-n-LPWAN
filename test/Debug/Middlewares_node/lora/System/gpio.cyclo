@@ -1,0 +1,7 @@
+../Middlewares_node/lora/System/gpio.c:29:6:GpioInit	1
+../Middlewares_node/lora/System/gpio.c:34:6:GpioSetContext	1
+../Middlewares_node/lora/System/gpio.c:39:6:GpioSetInterrupt	1
+../Middlewares_node/lora/System/gpio.c:44:6:GpioRemoveInterrupt	1
+../Middlewares_node/lora/System/gpio.c:49:6:GpioWrite	1
+../Middlewares_node/lora/System/gpio.c:54:6:GpioToggle	1
+../Middlewares_node/lora/System/gpio.c:59:10:GpioRead	1

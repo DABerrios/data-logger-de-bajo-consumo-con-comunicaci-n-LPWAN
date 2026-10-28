@@ -1,0 +1,7 @@
+../Middlewares_node/lora/System/fifo.c:25:17:FifoNext	16	static
+../Middlewares_node/lora/System/fifo.c:30:6:FifoInit	24	static
+../Middlewares_node/lora/System/fifo.c:38:6:FifoPush	16	static
+../Middlewares_node/lora/System/fifo.c:44:9:FifoPop	32	static
+../Middlewares_node/lora/System/fifo.c:52:6:FifoFlush	16	static
+../Middlewares_node/lora/System/fifo.c:58:6:IsFifoEmpty	16	static
+../Middlewares_node/lora/System/fifo.c:63:6:IsFifoFull	16	static
